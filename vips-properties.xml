@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<image xmlns="http://www.vips.ecs.soton.ac.uk//dzsave" date="2024-10-18T15:34:26.693831-04" version="8.15.3">
+  <properties>
+    <property>
+      <name>width</name>
+      <value type="gint">5614</value>
+    </property>
+    <property>
+      <name>height</name>
+      <value type="gint">7325</value>
+    </property>
+    <property>
+      <name>bands</name>
+      <value type="gint">3</value>
+    </property>
+    <property>
+      <name>xoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>yoffset</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>xres</name>
+      <value type="gdouble">11.811023622047244</value>
+    </property>
+    <property>
+      <name>yres</name>
+      <value type="gdouble">11.811023622047244</value>
+    </property>
+    <property>
+      <name>vips-loader</name>
+      <value type="VipsRefString">jpegload</value>
+    </property>
+    <property>
+      <name>jpeg-multiscan</name>
+      <value type="gint">0</value>
+    </property>
+    <property>
+      <name>jpeg-chroma-subsample</name>
+      <value type="VipsRefString">4:2:0</value>
+    </property>
+    <property>
+      <name>resolution-unit</name>
+      <value type="VipsRefString">in</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ImageDescription</name>
+      <value type="VipsRefString">Thoreau, Henry David, 1817-1862.   Journal : autograph manuscript : [Concord], 1860 July 23-Nov. 22,  p. 61, MA 1302.38 (Thoreau, Henry David, 1817-1862.   Journal : autograph manuscript : [Concord], 1860 July 23-Nov. 22,  p. 61, MA 1302.38, ASCII, 12</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Model</name>
+      <value type="VipsRefString">IQ1 100MP (IQ1 100MP, ASCII, 10 components, 10 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Orientation</name>
+      <value type="VipsRefString">1 (Top-left, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-XResolution</name>
+      <value type="VipsRefString">300/1 (300, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YResolution</name>
+      <value type="VipsRefString">300/1 (300, Rational, 1 components, 8 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-ResolutionUnit</name>
+      <value type="VipsRefString">2 (Inch, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Software</name>
+      <value type="VipsRefString">Capture One 21 Macintosh (Capture One 21 Macintosh, ASCII, 25 components, 25 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-DateTime</name>
+      <value type="VipsRefString">2021:07:21 12:18:26 (2021:07:21 12:18:26, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-Artist</name>
+      <value type="VipsRefString">The Morgan Library &amp; Museum (The Morgan Library &amp; Museum, ASCII, 28 components, 28 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd0-YCbCrPositioning</name>
+      <value type="VipsRefString">1 (Centered, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ExifVersion</name>
+      <value type="VipsRefString">Exif Version 2.3 (Exif Version 2.3, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-DateTimeOriginal</name>
+      <value type="VipsRefString">2021:07:21 12:18:26 (2021:07:21 12:18:26, ASCII, 20 components, 20 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ComponentsConfiguration</name>
+      <value type="VipsRefString">Y Cb Cr - (Y Cb Cr -, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-FlashpixVersion</name>
+      <value type="VipsRefString">FlashPix Version 1.0 (FlashPix Version 1.0, Undefined, 4 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-ColorSpace</name>
+      <value type="VipsRefString">65535 (Uncalibrated, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-PixelXDimension</name>
+      <value type="VipsRefString">5614 (5614, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-PixelYDimension</name>
+      <value type="VipsRefString">7325 (7325, Long, 1 components, 4 bytes)</value>
+    </property>
+    <property>
+      <name>exif-ifd2-SceneCaptureType</name>
+      <value type="VipsRefString">0 (Standard, Short, 1 components, 2 bytes)</value>
+    </property>
+    <property>
+      <name>orientation</name>
+      <value type="gint">1</value>
+    </property>
+    <property>
+      <name>vips-sequential</name>
+      <value type="gint">1</value>
+    </property>
+  </properties>
+</image>
